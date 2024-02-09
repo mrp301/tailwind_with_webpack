@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true, // prettierで成形
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // デフォルトのフォーマッタprittierに
+  "extensions.ignoreRecommendations": false, // 拡張機能のおすすめ表示させる
+  "editor.renderWhitespace": "all", // 半角スペース常に表示
+  "editor.renderControlCharacters": true // 制御文字表示
+}
